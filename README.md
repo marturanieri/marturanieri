@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Martina 
+## 👋 Hi, I'm Martina 
 I'm a 20-year-old Computer Science student at [UBA Exactas](https://computacion.dc.uba.ar/)
 
 ## 📚 My career
